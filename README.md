@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Android Game: 2048 Evolution
+Developing "2048 Evolution" Game for Android building in Java/LibGDX
+The 2048 is a puzzle game whose purpose is to drag tiles on a grid, to combine them and create a tile with the number 2048.
 
-You can use the [editor on GitHub](https://github.com/FathomCode/Android-Game-2048-Evolution/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This game is a fun and educational copy of the game of 2048.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The original game of 2048 was created in March 2014 by Gabriele Cirulli, an Italian web-designer, in the form of a free online game and open source. Himself strongly inspired by Veewo Studio's 1024 game and Asher Vollmer's Threes game.
 
-### Markdown
+## Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Send 2048-Evolution.APK to android device and running on your mobile device application installation and launc game.
 
-```markdown
-Syntax highlighted code block
+### Prerequisites
+Android version starting from 4th. Or use Android Emulator for Desktop.
 
-# Header 1
-## Header 2
-### Header 3
+## Build & Install application
+You can download and test the link. The project is still in the process of early development, take part in its development, leave your ideas, suggestions, etc. to improve the 2048 Evolution Game.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Developed in JAVA with LibGDX, this version of the game has for target platforms:
 
-**Bold** and _Italic_ and `Code` text
+* The WEB (HTML5 + WebGL via GWT)
+* Android
+* Desktop (Windows, Mac, Linux via JAVA)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Built With & my tools:
 
-### Jekyll Themes
+* IDE: [Android Studio](https://www.jetbrains.com/) - IDE for mobile Java develop.
+* Language: [JAVA with LibGDX] - ...
+* Framework: [LibGDX] - Java game development, cross-platform framework
+* [Grable](https://maven.apache.org/) - Building & Dependency
+* Design editor: [PhotoShop] / [GIMP]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FathomCode/Android-Game-2048-Evolution/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contributing
 
-### Support or Contact
+Please read [CONTRIBUTING.md](https://gist.github.com/FathomCode/2e5c8297034687fd2cfc023e1c93fa1f/edit) for details on our code of conduct, and the process for submitting pull requests to us.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Versioning
+
+We use [Git](https://git-scm.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Author & Developer
+
+* **[Andre Hanenko](https://www.facebook.com/andre.hanenko)** - *Initial work* - [FathomCode](https://github.com/FathomCode)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* LibGDX - cross platform, Java based game development framework. 
+* etc
+
