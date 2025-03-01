@@ -1,54 +1,36 @@
-# CV Andrey Hanenko - Backend PHP Developer
-I am back-end PHP developer. Personal qualities: enterprising, responsible and executive, focused on results. I am keen on new technologies and I love studying something new concepts. 
-Skilled in PHP, SQL, Codeigniter, Wordpress, Opencart, JavaScript/jQuery, Bootstrap, Smarty. Experience in common third-party APIs. 
-Strong engineering professional with computer science from Kherson State University.
+# Android Game: 2048 Evolution
+Developing "2048 Evolution" Game for Android building in Java/LibGDX
+The 2048 is a puzzle game whose purpose is to drag tiles on a grid, to combine them and create a tile with the number 2048.
 
+This game is a fun and educational copy of the game of 2048.
 
-### PHP Developer
-Socmedia, SMELO  
-MAY 2019 - NOW | Kiev, Ukraine
+The original game of 2048 was created in March 2014 by Gabriele Cirulli, an Italian web-designer, in the form of a free online game and open source. Himself strongly inspired by Veewo Studio's 1024 game and Asher Vollmer's Threes game.
 
-PHP Developer (Back-end, WordPress)
-Creating, supporting and customizations WebService.
-Developed Framework: Codeigniter...
-//---
+## Getting Started
 
-### PHP Developer
-OnlyCode, Individual work 
-FEB 2017 - MAY 2019 | Kherson, Ukraine
+Send 2048-Evolution.APK to android device and running on your mobile device application installation and launc game.
 
-Developing plugins for Wordpress, OpenCart 
-Creating API for mobile applications 
-Developing web applications 
-Supporting existing projects, fixing bugs, making backups.
-//---
-
-### Web Developer
-Freelance - JUN 2015 - FEB 2017
-
-Frontend (+responsive design) 
-Database modeling 
-Backend development 
-Theme integrations and developing extensions for it. 
-Making front-end changes 
-Supporting ongoing projects what include fixing bugs, installing extensions.
+### Prerequisites
 Android version starting from 4th. Or use Android Emulator for Desktop.
-/---
 
-## Education
-Kherson State University - 2014 - 2018
-Bachelor of Engineering, Computer Science
-/---
+## Build & Install application
+You can download and test the link. The project is still in the process of early development, take part in its development, leave your ideas, suggestions, etc. to improve the 2048 Evolution Game.
+
+
+## Developed in JAVA with LibGDX, this version of the game has for target platforms:
+
+* The WEB (HTML5 + WebGL via GWT)
+* Android
+* Desktop (Windows, Mac, Linux via JAVA)
+
 
 ## Built With & my tools:
 
-* IDE: [PHPStorm](https://www.jetbrains.com/) - IDE for Backend PHP developing.
-* Language: [PHP] - ...
-* Framework: [Codeigniter] - The small framework with powerful features. CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
-* [MySQL] - Standarting using databases
-
-* Text editor: [Sublime Text]
-* Design editor: [PhotoShop]
+* IDE: [Android Studio](https://www.jetbrains.com/) - IDE for mobile Java develop.
+* Language: [JAVA with LibGDX] - ...
+* Framework: [LibGDX] - Java game development, cross-platform framework
+* [Grable](https://maven.apache.org/) - Building & Dependency
+* Design editor: [PhotoShop] / [GIMP]
 
 ## Contributing
 
